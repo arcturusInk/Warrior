@@ -1,7 +1,7 @@
 Focus:
-    Functions
-    CLASSES
-    ARRAYLIST
+    Functions,
+    CLASSES,
+    ARRAYLIST,
     I/O
 
 Problem:
